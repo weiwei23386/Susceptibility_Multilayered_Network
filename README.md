@@ -95,12 +95,12 @@ The experiment involves:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/wc23386/Susceptibility_Multilayered_Network.git
-   cd Susceptibility_Multilayered_Network
+   cd Susceptibility_Multilayered_Network```
 
 ## **Install Dependencies**:
 
 ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt```
 
 ## **Modify Parameters**:
 
