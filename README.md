@@ -113,7 +113,7 @@ Ensure API keys (e.g., ChatGPT) are properly set up.
 2. Subreddit Analysis: Mapping of subreddit interactions to media sources.
 3. Temporal Analysis: Dynamic credibility and interaction shifts.
 
-##**Contributing**
+## **Contributing**
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 Contact
