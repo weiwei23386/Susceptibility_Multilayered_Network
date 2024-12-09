@@ -1,6 +1,6 @@
 # Susceptibility_Multilayered_Network
 
-# Experiment Workflow and Guidelines
+## Experiment Workflow and Guidelines
 
 This repository contains the code and methodology for analyzing media credibility and subreddit interactions using a multilayered network approach. The workflow is divided into several steps, each implemented through dedicated scripts.
 
