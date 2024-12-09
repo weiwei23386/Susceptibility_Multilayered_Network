@@ -100,7 +100,8 @@ The experiment involves:
 ## **Install Dependencies**:
 
 ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+```
 
 ## **Modify Parameters**:
 
@@ -116,6 +117,6 @@ Ensure API keys (e.g., ChatGPT) are properly set up.
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 Contact
-Author: WeiChun Chang
-Email: weichun.chang@utexas.edu
+Author: WeiChun Chang, Jennifer Rozenblit
+Email: weichun.chang@utexas.edu, jrozenblit@utexas.edu
 Date: Dec 09 2024
