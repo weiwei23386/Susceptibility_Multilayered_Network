@@ -94,5 +94,5 @@ The experiment involves:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/wc23386/Susceptibility_Multilayered_Network.git
+   cd Susceptibility_Multilayered_Network
