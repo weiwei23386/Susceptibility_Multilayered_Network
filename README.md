@@ -96,3 +96,26 @@ The experiment involves:
    ```bash
    git clone https://github.com/wc23386/Susceptibility_Multilayered_Network.git
    cd Susceptibility_Multilayered_Network
+
+## **Install Dependencies**:
+
+```bash
+   pip install -r requirements.txt
+
+## **Modify Parameters**:
+
+Update configuration files or variables in scripts as needed.
+Ensure API keys (e.g., ChatGPT) are properly set up.
+
+## **Outputs**
+1. Credibility Network: Nodes: Media sources. Edges: Weighted by credibility alignment.
+2. Subreddit Analysis: Mapping of subreddit interactions to media sources.
+3. Temporal Analysis: Dynamic credibility and interaction shifts.
+
+##**Contributing**
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+Contact
+Author: WeiChun Chang
+Email: weichun.chang@utexas.edu
+Date: Dec 09 2024
